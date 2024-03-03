@@ -1,0 +1,8 @@
+Database name: northernpublicationbd
+Database User: roktim
+database Pass: roktim123@ser
+
+
+wp login: roktim
+   pass: nub@3$hehdsx
+
